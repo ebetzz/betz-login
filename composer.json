@@ -1,0 +1,18 @@
+{
+    "name": "bet/login",
+    "description": "simple login",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bet\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ebetzz",
+            "email": "tri.aryo@gmail.com"
+        }
+    ],
+    "require": {}
+}
